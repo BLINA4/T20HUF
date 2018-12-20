@@ -1,5 +1,5 @@
  /* Zipping programm based on Huffman's algorithm 
-  * File which contains functions to work with bits 
+  * File which contains functions to work with bit writing 
   * Protected by GNU GPL license v3 */
 
 #include <stdio.h>
