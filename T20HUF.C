@@ -15,7 +15,7 @@ void main( int argc, char *argv[] )
   {
     printf("Enter mode (1 - Statistic, 2 - Compress, 3 - Decompress): \n");
 
-    switch(getchar())
+    switch (getchar())
     {
     case '1':
       printf("Enter file name:\n");
